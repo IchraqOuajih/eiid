@@ -1,0 +1,24 @@
+.head .so{
+    height: 195px;
+}
+.head{
+    display: flex;
+    justify-content:center;
+    margin-bottom: 160px;
+    
+}
+body{
+    background-color: rgb(44, 114, 188);
+}
+.down .bo{
+    height: 195px;
+}
+.down{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.down h1{
+    color: white;
+    
+}
